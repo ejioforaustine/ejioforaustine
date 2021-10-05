@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ejiofor Chiagozie Flavius
 - 👀 I’m interested in Mobile app development 
-- 🌱 I’m currently learning Flutter/Dart
+- 🌱 I’m currently a developer with Flutter/Dart
 - 💞️ I’m looking to collaborate on App development/ Games
 - 📫 How to reach me, you can reach by Email- ejioforchiagozie@gmail.com
 
